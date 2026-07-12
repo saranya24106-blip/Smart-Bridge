@@ -7,6 +7,9 @@ This project analyzes heart disease data using Tableau. Interactive dashboards a
 - Tableau Desktop
 - Tableau Public
 
+## Dataset
+- heart_2020_cleaned.csv
+
 ## Features
 - Interactive Dashboards
 - Filters
@@ -17,7 +20,10 @@ This project analyzes heart disease data using Tableau. Interactive dashboards a
 https://public.tableau.com/app/profile/saranya.gokavarapu/viz/FinalSmartProject/HeartDiseaseAnalysis?publish=yes
 
 ## GitHub Repository
-This repository contains the Tableau workbook (.twbx) and project documentation.
+This repository contains:
+- Tableau workbook (.twbx) (if available)
+- Dataset (heart_2020_cleaned.csv)
+- Project documentation (README.md)
 
 ## Author
 Saranya G
