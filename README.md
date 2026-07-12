@@ -14,7 +14,7 @@ This project analyzes heart disease data using Tableau. Interactive dashboards a
 - Data Visualization
 
 ## Tableau Public Link
-Paste your Tableau Public link here.
+https://public.tableau.com/app/profile/saranya.gokavarapu/viz/FinalSmartProject/HeartDiseaseAnalysis?publish=yes
 
 ## GitHub Repository
 This repository contains the Tableau workbook (.twbx) and project documentation.
